@@ -27,3 +27,7 @@ cd <le dossier>
 firefox index.html
 ```
 
+## Droits
+
+* Nous avons utilisé des screenshots des films de Madagascar que nous avons supprimé du dépôt pour raison de droits.
+* Vous pouvez librement réutiliser la présentation ainsi que les images présentes ici. (cc by-nc http://creativecommons.org/licenses/by-nc/4.0/)
