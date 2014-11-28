@@ -22,3 +22,12 @@ Le rapprochement de AFI et BibLibre, deux éditeurs de logiciels libres s’insp
 Nous pensons que créer ses outils n’est pas une perte de temps et fait partie du processus de développement. Démos et retour d'expérience dans le monde d'un produit web personnalisable chez plus de 150 bibliothèques, mis à jour à chaque itération: non regression visuelle des applications web (phantomcss, casperjs), meilleure synchronisation en remote pair programming (tmux, bash), non régression des traitements de masse (phpunit), aide à la décision pour l'évolution des processus (pharo, moose, redmine), automatisation de l'environnement de développement et de déploiement (emacs, vim, git).
 
 Vous serez projetés dans notre quotidien, nous espérons que ça vous poussera à enfoncer des portes, essayer des choses et bannir les "on ne peut pas".
+
+## Visualiser
+
+```
+git clone <le dépôt> <le dossier>
+cd <le dossier>
+firefox index.html
+```
+
