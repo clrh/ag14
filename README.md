@@ -1,11 +1,7 @@
-Agile Grenoble 2014 - présentation
-==========
-
-Présentation de Laurent Laffont (@lolgz) et Claire Hernandez (@clrh)
-
-
 ## Qui a dit que les pingouins ne savaient pas voler ?
 ### N’adoptez pas d’outils ! Refusez tout process ! Créez les vôtres !
+
+Présentation de Laurent Laffont (@lolgz) et Claire Hernandez (@clrh) à l'Agile Grenoble 2014
 
 Démos d'outils et retours d'expérience sur l'évolution d'un workflow XP et Scrum pour des collaborateurs distants.
 Objectif de la session: 	L'envie d'essayer, de se lancer, d'arrêter d'hésiter et de discuter !
