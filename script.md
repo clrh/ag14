@@ -38,23 +38,13 @@ background-image: url(img/context_2_devs_2_light.png)
 
 # Afi-Opac en 2010...
 
---
-
 * un portail pour les bibliothèques
-
---
 
 * produit propriétaire d'AFI
 
---
-
 * 1 développeur
 
---
-
 * une installation en production
-
---
 
 * 1 chef de projet à temps partiel
 
@@ -64,35 +54,17 @@ background-image: url(img/context_lot_2_light.png)
 
 # ...vers ![image](img/bokeh.png) en 2015
 
---
-
 * ![image](img/agpl.png)
-
-???
-
-en 2014, le produit est un logiciel libre, il est sous license ...
-
---
 
 * ![image](img/afi-biblibre.png)
 
---
-
 * 7 Développeurs, 1 Scrummaster, 1 Product Owner
-
---
 
 * 3 Hotliners, 3 Chefs de projet
 
---
-
 * ~180 installations et 100 dépôts git
 
---
-
 * itérations 2 semaines
-
---
 
 * ~8 mises à jour des clients par mois
 
@@ -104,15 +76,8 @@ class:bigger
 background-image: url(img/penguin_computer.png)
 # Pourquoi développons nous du logiciel (libre)?
 
---
 
 * Passer du temps à créer et non répéter 
-
-???
-
-ce qui nous amuse c'est de créer...
-
---
 
 * Pour que nos clients satisfassent leurs utilisateurs
 
@@ -208,9 +173,6 @@ background-image: url(img/outils_light.png)
 
 ### Comment travailler sur le même code source, livrer des versions ?
 
----
-class:center,middle
-# Nos choix
 
 ---
 class: middle, left
@@ -262,20 +224,12 @@ background-image: url(img/outils_light.png)
 
 * Volume dev de + en + important
 
----
-class:center,middle
-
-# Nos choix
 
 ---
 
 # Negative - non-régressions des intégrations
 
-???
 
-par intégration, on entends ...
-
---
 
 ![image](img/tools/negative.png)
 
@@ -283,7 +237,7 @@ par intégration, on entends ...
 # Pique - régressions de rendu
 
 
---
+
 
 ![image](img/tools/pique.png)
 
@@ -292,7 +246,7 @@ par intégration, on entends ...
 
 # Inspector Gadget
 
---
+
 
 ![image](img/tools/inspector_gadget.png)
 ???
@@ -316,19 +270,19 @@ background-image: url(img/tools/bac_a_sable.png)
 
 # #1 Instauration de notre "Bac à sable"
 
---
+
 
 ## une aprem par sprint
 
---
+
 
 ## un espace d'expérimentation
 
---
+
 
 ## avec un point de synchro et une démo pour débrieffer
 
---
+
 
 ## facultatif et en fonction des priorités du support
 
@@ -340,19 +294,19 @@ background-image: url(img/tools/backlog_outils.png)
 
 # #2 Faire remonter les besoins au backlog
 
---
+
 
 ## exliquer le risque de ne rien faire
 
---
+
 
 ## expliquer l'impact de le faire
 
---
+
 
 ## essayer d'en faire passer un petit bout à chaque planification
 
---
+
 
 ## rencontre plus de résistance
 ---
